@@ -1,0 +1,19 @@
+* {
+  transition: all 2.2s;
+}
+
+
+body {
+  font-size: 3vmin;
+}
+
+.box {
+  display: flex;
+  flex-direction: column;
+  margin-left: 50vmin;
+  margin-top: 35vmin;
+}
+
+button {
+  width: 20vmin;
+}
